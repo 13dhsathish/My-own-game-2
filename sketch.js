@@ -40,31 +40,31 @@ function setup() {
 	m1 = createSprite(0, 0, displayWidth/2, 10);
 	m1.shapeColor = "green";
 
-	m2 = createSprite(displayWidth/4, 20, 8, displayHeight/2	);
+	m2 = createSprite(displayWidth/4, 20, 8, displayHeight/4);
 	m2.shapeColor = "green";
 
-	m3 = createSprite(displayWidth/2, 30, 7, displayHeight/2	);
+	m3 = createSprite(displayWidth/2, 30, 7, displayHeight/4);
 	m3.shapeColor = "green";
 
 	m4 = createSprite(120, 250, displayWidth/4, 8);
 	m4.shapeColor = "green";
 
-	m5 = createSprite(displayWidth/5, 450, 8, displayHeight/2);
+	m5 = createSprite(200, 400, 8, 50);
 	m5.shapeColor = "green";
 
 	m6 = createSprite(0, 0, displayWidth/2, 10);
 	m6.shapeColor = "green";
 	
-	m7 = createSprite(displayWidth/5, 450, 8, displayHeight/2);
+	m7 = createSprite(displayWidth - 70, 450, 8, displayHeight/4);
 	m7.shapeColor = "green";
 
-	m8 = createSprite(0, 0, displayWidth/2, 10);
+	m8 = createSprite(100, 100, displayWidth/5, 8);
 	m8.shapeColor = "green";
 
-	m9 = createSprite(displayWidth/5, 450, 8, displayHeight/2);
+	m9 = createSprite(displayWidth/2 - 20, 550, 8, displayHeight/5);
 	m9.shapeColor = "green";
 	
-	m10 = createSprite(0, 0, displayWidth/2, 10);
+	m10 = createSprite(displayWidth - 300, 50, displayWidth/4, 10);
 	m10.shapeColor = "green";
 
 	m11 = createSprite(displayWidth/4, 20, 8, displayHeight/2);
